@@ -10,4 +10,5 @@ This program was produced as a project submission for Udacity's FSND Tournament 
 
 ##Usage:
 1.  create a blank database called 'tournament'
-2.  run tournament_test.py which will attempt to register players, delete players and report matches.
+2.  import tournament.sql, which will create necessary tables and populate the points table.
+3.  run tournament_test.py which will attempt to register players, delete players and report matches.
